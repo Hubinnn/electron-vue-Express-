@@ -1,4 +1,4 @@
-# electron-vue 编写桌面应用
+# electron-vue-Express编写桌面应用
 
 > 技术栈vue全家桶 vueX + eslint + vue-router + axios
 
